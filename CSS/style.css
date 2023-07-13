@@ -1,0 +1,34 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+:root {
+    --back-color: #F5F5F5 --main-color: #09c
+}
+
+.text-main {
+    color: #0078FF !important;
+}
+
+.background-main {
+    background-color: #F5F5F5 !important;
+}
+
+.nav-item a {
+    font-size: smaller !important;
+}
+
+#home {
+    background-image: url(/1939288.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+words h1{
+    
+font-family: 'Montserrat', sans-serif;
+
+}
